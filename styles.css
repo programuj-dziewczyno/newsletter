@@ -71,6 +71,10 @@ hr {
     margin-bottom: 0;
 }
 
+article {
+    border-bottom: 1px solid lightgrey;
+}
+
 @media (min-width: 576px) {
     nav {
         display: grid;
